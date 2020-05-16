@@ -1,37 +1,42 @@
 {
   "project_info": {
-    "project_number": "900737773501",
-    "firebase_url": "https://gruhpathmobile.firebaseio.com",
-    "project_id": "gruhpathmobile",
-    "storage_bucket": "gruhpathmobile.appspot.com"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:900737773501:android:9838ddf9013bf496632cd4",
+        "mobilesdk_app_id": "1:111111111111:android:1111111111111111",
         "android_client_info": {
-          "package_name": "com.gruhpath.gruhpathmobile"
+          "package_name": "tw.edu.weteach.m3moodlemobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBhR5tNHwGR8hTJblLt3cR6CjLVVgN51Wo"
+          "current_key": ""
+        },
+        {
+          "current_key": ""
         }
       ],
       "services": {
+        "analytics_service": {
+          "status": 1
+        },
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
         }
       }
     }
