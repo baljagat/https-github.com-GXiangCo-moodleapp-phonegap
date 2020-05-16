@@ -2,19 +2,19 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "tw.edu.weteach.m3moodlemobile"
+        id        = "com.gruhpath.gruhpathmobile"
         versionCode = "38200"
         android-versionCode = "38201"
         ios-CFBundleVersion = "3.8.2.1"
         version   = "3.8.2">
-    <name>合作備課</name>
+    <name>Gruhpath</name>
 
     <description>
-        M3教育雲 合作備課 App
+        Gruhpath Official Mobile App
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://gruhpath.com" email="baljagat@gmail.com">
+        Anil Sonune
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
