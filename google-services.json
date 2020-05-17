@@ -1,30 +1,30 @@
 {
   "project_info": {
-    "project_number": "694767596569",
-    "firebase_url": "https://moodlemobile-push.firebaseio.com",
-    "project_id": "moodlemobile-push",
-    "storage_bucket": "moodlemobile-push.appspot.com"
+    "project_number": "900737773501",
+    "firebase_url": "https://gruhpathmobile.firebaseio.com",
+    "project_id": "gruhpathmobile",
+    "storage_bucket": "gruhpathmobile.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:694767596569:android:a4cdad4d168c9d1a",
+        "mobilesdk_app_id": "1:900737773501:android:9838ddf9013bf496632cd4",
         "android_client_info": {
           "package_name": "com.gruhpath.gruhpathmobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "694767596569-icveqqa2n56oh44l6ev1dr2oh67nh8il.apps.googleusercontent.com",
+          "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCb2zogu0P_aZ2LNgdwzshWExITPKTXJyk"
+          "current_key": "AIzaSyBhR5tNHwGR8hTJblLt3cR6CjLVVgN51Wo"
         },
         {
-          "current_key": "AIzaSyDRT1HwT0gSsTty0whOVtoNKAh8SPrJXLE"
+          "current_key": "AIzaSyBhR5tNHwGR8hTJblLt3cR6CjLVVgN51Wo"
         }
       ],
       "services": {
@@ -33,7 +33,12 @@
         },
         "appinvite_service": {
           "status": 1,
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900737773501-bnlqdegindhp1gn7kqmo299ergrngmmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
